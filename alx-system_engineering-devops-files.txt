@@ -1,0 +1,9 @@
+total 0
+drwxr-xr-x 1 root root 4096 Apr  3 15:54 0x00-shell_basics
+drwxr-xr-x 1 root root 4096 Apr  3 16:49 0x01-shell_permissions
+-rw-r--r-- 1 root root   14 Apr  3 10:40 README.md
+-rw-r--r-- 1 root root    0 Apr  4 11:16 alx-system_engineering-devops-files.txt
+0x00-shell_basics
+0x01-shell_permissions
+README.md
+alx-system_engineering-devops-files.txt
